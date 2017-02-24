@@ -5,8 +5,10 @@ Program script ini menggunakan command line bash terangkum dalam script shell de
 Untuk menjalankan program tersebut dapat di sistem operasi Linux dengan dukungan `Bash/Shell`.
 
 Berikut contoh dalam penggunaan script ini.
-```
+```bash
 $ ./simple_bash_monitoring.sh
+```
+```
 [+] User Online :   twster
 [+] Operating System :  GNU/Linux
 [+] Architecture :  i686
