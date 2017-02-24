@@ -1,4 +1,4 @@
-# Bash-SimpleMonitoring
+# BASH_Simple_Monitoring
 `Bash Simple Monitoring`
 
 Program script ini menggunakan command line bash terangkum dalam script shell dengan ektensi `.sh`<br>
