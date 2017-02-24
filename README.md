@@ -1,11 +1,11 @@
 # Bash-SimpleMonitoring
-Bash Simple Monitoring
+`Bash Simple Monitoring`
 
-Program script ini menggunakan command line bash terangkum dalam script shell dengan ektensi .sh<br>
-Untuk menjalankan program tersebut dapat di sistem operasi Linux dengan dukungan Bash/Shell.
+Program script ini menggunakan command line bash terangkum dalam script shell dengan ektensi `.sh`<br>
+Untuk menjalankan program tersebut dapat di sistem operasi Linux dengan dukungan `Bash/Shell`.
 
 Berikut contoh dalam penggunaan script ini.
-
+```
 $ ./simple_bash_monitoring.sh<br> 
 [+] User Online :   twster<br>
 [+] Operating System :  GNU/Linux<br>
@@ -21,4 +21,4 @@ $ ./simple_bash_monitoring.sh<br>
 [+] Memori Total : 4045896 kB<br>
 [+] Memori Free :  984920 kB<br>
 [+] Memori Available : 2312184 kB<br>
-
+```
