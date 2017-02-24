@@ -8,6 +8,7 @@ Berikut contoh dalam penggunaan script ini.
 ```bash
 $ ./simple_bash_monitoring.sh
 ```
+Tampilan output program
 ```
 [+] User Online :   twster
 [+] Operating System :  GNU/Linux
