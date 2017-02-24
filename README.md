@@ -1,9 +1,12 @@
 # Bash-SimpleMonitoring
 Bash Simple Monitoring
 
-SimpleBashMonitpring.sh di test dengan sistem operasi berikut:
+Program script ini menggunakan command line bash terangkum dalam script shell dengan ektensi .sh<br>
+Untuk menjalankan program tersebut dapat di sistem operasi Linux dengan dukungan Bash/Shell.
 
-twster@twsterdev:~/Coding/bash$ ./simple_monitoring.sh<br> 
+Berikut contoh dalam penggunaan script ini.
+
+$ ./simple_monitoring.sh<br> 
 [+] User Online :   twster<br>
 [+] Operating System :  GNU/Linux<br>
 [+] Architecture :  i686<br>
@@ -18,4 +21,4 @@ twster@twsterdev:~/Coding/bash$ ./simple_monitoring.sh<br>
 [+] Memori Total : 4045896 kB<br>
 [+] Memori Free :  984920 kB<br>
 [+] Memori Available : 2312184 kB<br>
-twster@twsterdev:~/Coding/bash$<br>
+
