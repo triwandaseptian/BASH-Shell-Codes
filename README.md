@@ -6,7 +6,7 @@ Untuk menjalankan program tersebut dapat di sistem operasi Linux dengan dukungan
 
 Berikut contoh dalam penggunaan script ini.
 
-$ ./simple_monitoring.sh<br> 
+$ ./simple_bash_monitoring.sh<br> 
 [+] User Online :   twster<br>
 [+] Operating System :  GNU/Linux<br>
 [+] Architecture :  i686<br>
