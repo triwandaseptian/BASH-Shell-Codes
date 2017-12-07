@@ -6,7 +6,12 @@ Untuk menjalankan program tersebut dapat di sistem operasi Linux dengan dukungan
 
 Berikut contoh dalam penggunaan script ini.
 ```bash
+$ chmod +x simple_bash_monitoring.sh
 $ ./simple_bash_monitoring.sh
+```
+atau dengan command berikut:
+```bash
+$ bash simple_bash_monitoring.sh
 ```
 Tampilan output program
 ```
